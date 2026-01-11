@@ -1,47 +1,50 @@
-# Como solicitar um IBM Cloud Feature Code 
 
-[日本語](/academic-initiative/jp/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md)
+# IBM Cloud フィーチャー・コードのリクエスト方法
 
-**Objetivo:** O objetivo deste guia é guiá-lo através dos passos a serem seguidos para solicitar um IBM Cloud Feature Code. Este guia assumirá que você já tem [registered with IBM SkillsBuild Software Downloads](/academic-initiative/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md).
+[English](/academic-initiative/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md);
+[Português](/academic-initiative/pt-br/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md);
 
-**Tempo estimado:** 5-10 minutos
 
-## Passo 1: Abra o [IBM SkillsBuild Software Downloads](https://ibm.com/academic) em seu navegador web.
+**目的：** このガイドの目的は、IBM Cloud フィーチャー・コードをリクエストするための手順を説明することです。 このガイドでは、[IBM SkillsBuild Software Downloadsに登録済み](/academic-initiative/jp/how-to/How-to-register-with-the-IBM-Academic-Initiative/readme.md)であることを前提としています。
+
+**推定所要時間：** 5-10分
+
+ 
+## Step 1: [IBM SkillsBuild Software Download](https://ibm.com/academic)のWebサイトをWebブラウザで開きます。
 <br />
 
 ![Step 1](images/step1.png) 
 
-## Passo 2: Clique **Already registered? Log in.**
+## Step 2: 「**Already registered? Log in**」 をクリックします。
 <br />
 
 ![Step 2](images/step2.png) 
  
-## Passo 3: Digite sua instituição acadêmica, faculdade, e-mail de identificação emitido pela universidade e complete o processo de login.
+## Step 3: IBM SkillsBuild Software Downloadに登録した教育機関、大学で発行されたEメールIDを入力し、ログインを行ってください。
 <br />
 
 ![Step 3](images/step3.png)  
 
-## Passo 4: Visite as páginas temáticas da IBM Cloud
+## Step 4: IBM Cloudのトピックページを表示します。
 
-Você pode navegar rapidamente para a página, clicando no **Topics menu > IBM Cloud**
+**Topics menu > IBM Cloud** をクリックすると、すぐにページに移動できます。
 <br />
 
 ![Step 4](images/step4.png)  
 
-## Passo 5: Role para baixo e clique **Software**.
+## Step 5: スクロールダウンして、「**Software**」タブをクリックします。
 <br />
 
 ![Step 5](images/step5.png)  
  
-## Passo 6: Clique **IBM Cloud Feature Code.** 
+## Step 6: 「**IBM Cloud Feature Code**」をクリックします。
 <br />
 
 ![Step 6](images/step6.png)  
 
-## Passo 7: Clique **Request Feature Code.**
+## Step 7: 「**Request Feature Code**」 をクリックします。
 ![Step 7](images/step7.png)    
  
-## Passo 8: O código do recurso será exibido.  Ele também será enviado por e-mail para o seu e-mail de identificação registrado.
-<br />
+## Step 8: フィーチャー・コードが表示されます。 また、登録したメールIDにもメールで通知されます。
 
 ![Step 8](images/step8.png)
