@@ -1,57 +1,60 @@
-# Instruções para download e instalação do IBM SPSS Modeler Premium Network 
+# Instructions for IBM SPSS Modeler Premium Network Download and Installation
 
-Revise e siga essas etapas para concluir a instalação do IBM SPSS Modeler para sua instituição.
+[Português](/academic-initiative/pt-br/how-to/Instructions-for-IBM-SPSS-Modeler-Premium-Network-Download-and-Installation/readme.md);
 
-## Determine o número de licenças necessárias:
-Identifique o número de dispositivos que serão licenciados para instalação SPSS License Manager (SLM). Solicite que o(s) código(s) sejam gerados do IBM SKills Build Software Downloads website; Solicitações de códigos são normalmente processados às quarta-feiras;
+Please review and follow these steps to complete the installation of IBM SPSS Modeler for your institution. 
 
-## Faça o download do IBM SPSS License Manager (SLM);
-Uma vez que você obter o código de autorização de máquinas do IBM SkillsBuild Software Downloads, faça o download do IBM SPSS Concurrent Licensing Manager deste local:
+## Determine the number of licensed uses required:
+Identify the number of devices that will be licensed per SPSS License Manager (SLM) installation machine. Request the authorization code(s) be generated from the IBM SkillsBuild Technology Access website; code requests are typically processed on Wednesdays. 
+
+## Download the IBM SPSS License Manager (SLM):
+Once you have obtained the concurrent machine authorization code from IBM SkillsBuild Technology Access,  download the IBM SPSS Concurrent Licensing Manager from this location: 
 
 https://ibm.ent.box.com/s/dvf8z6ek8qkd69uhykju5webtmtwx1pt
 
-Faça sua escolha baseado no seu sistema operacional. 
+Make your selection based on your **server** operating system: 
 
 - **spss_clt_9.8_win_en.zip** (for Windows operating system)
 - **spss_clt_9.8_mac_en.tar.tar.gz** (for Macintosh operating system)
 - **spss_clt_9.8_lnx_en.tar.tar.gz** (For Linux operating system)
 
-Cada um desses download são arquivos compactados que devem primeiro ser descompactados.
+Each of these downloads is a compressed file that must first be unzipped. 
 
-## Instale o SPSS License Manager (SLM):
-O exemplo abaixo descreve as etapas para serem seguidas ao instalar em uma máquina servidor Windows.
+## Install the SPSS License Manager (SLM):
+The example below outlines the steps to be taken when installing to a **Windows** server machine: 
 
-1. Extraia o conteúdo do arquivo **spss_clt_9.8_win_en.zip** para uma pasta no disco. Você verá duas pastas.
+
+1. Extract the content of the file **spss_clt_9.8_win_en.zip** to a folder on disc. You will see two folders: 
 
 ![Step 1](images/step1.png)
 
-2. Na pasta **manager** clique com o botão direito no arquivo `setup.exe` e selecione a opção **Run as administrator**.
+2. From the **manager** folder right click on the file `setup.exe` and select the **Run as administrator** option:
 
 ![Step 2](images/step2.png)
  
-3. Na pasta **tools** clique com o botão direito no arquivo `setup.exe` e selecione a opção **Run as administrator**.
+3. From the **tools** folder right click on the file `setup.exe` and select the **Run as administrator** option:
 
 ![Step 3](images/step3.png)
  
-**Recomenda-se usar o caminho padrão C:\Program Files (x86)\Common Files\SafeNet Sentinel\Sentinel RMS License Manager**
+**It is recommended to use the default path C:\Program Files (x86)\Common Files\SafeNet Sentinel\Sentinel RMS License Manager**
 
-_NOTE: Depois de instalar os arquivos manager e tools, a versão do SLM é 9.6.2.0006, conforme visto na ferramenta Sentinel RMS Server Administration (WlmAdmin)_
+_NOTE: Once you have installed the license manager and tools, the SLM version is 9.6.2.0006 as seen in the Sentinel RMS Server Administration (WlmAdmin) tool:_
 
 ![Step 4](images/step4.png)
 
-## Licença do SPSS License Manager (SLM):
+## License the SPSS License Manager (SLM):
 
-Para licenciar o novo instalador License Manager, abra um prompt de comando administrativo. Troque o diretório da subpasta para WinNT C:\Program Files (x86)\Common Files\SafeNet Sentinel\Sentinel RMS License Manager\WinNT) e use o comando `licenseactivator` seguido pelo seu código de autorização de rede de 20 caracteres:
+To license the newly installed License Manager, open an administrator command prompt. Change directory to WinNT subfolder (C:\Program Files (x86)\Common Files\SafeNet Sentinel\Sentinel RMS License Manager\WinNT) and use the `licenseactivator` command followed by your 20 character network authorization code: 
 
 ![Step 5](images/step5.png)
  
-Para completar o processo de licença, pare e reinicie o serviço Sentinel License Manager
+To complete the licensing process, Stop then Restart the Sentinel License Manager Service: 
 
 ![Step 6](images/step6.png)
 
-## Faça o download do IBM SPSS Modeler 18.x Client:
+## Download the IBM SPSS Modeler 18.x Client:
 
-No site IBM SkillsBuild Software Downloads website: (www.ibm.com/academic) faça o download do arquivo de download SPSS Modeler Premium de acordo com o seu sistema operacional.
+From the IBM SkillsBuild Technology Access website: (www.ibm.com/academic) download the SPSS Modeler Premium software the file based on OS in use:
 
 ![Step 7](images/step7.png)
  
@@ -63,14 +66,14 @@ Windows OS:
 
 ![Step 9](images/step9.png)  
 
-Esta nota técnica contém informações adicionais sobre download, instalação e licença do SLM:  https://www.ibm.com/support/pages/node/6233924
+This technote contains additional information on the download, installation and licensing of the SLM: https://www.ibm.com/support/pages/node/6233924
 
-## Instalar IBM SPSS Modeler  18.x Client:
+## Install IBM SPSS Modeler 18.x Client:
 
-**Para instalar o software**, siga as etapas descritas no site da documentação IBM SPSS Modeler Premium 18.2 Installation and Configuration Guide found on the SPSS Modeler 18.2 : https://www.ibm.com/support/pages/spss-modeler-182-documentation.
+**To Install the software.** Follow the steps outlined in the IBM SPSS Modeler Premium 18.2 Installation and Configuration Guide found on the SPSS Modeler 18.2 documentation site: https://www.ibm.com/support/pages/spss-modeler-182-documentation. 
 
-Para uma instalação individual, revise as etapas descritas no capítulo 2.
+For an individual installation, review the steps outlined in Chapter 2. 
 
-Para enviar uma instalação silenciosa do software para diferentes estações de trabalho com o mesmo hardware, revise as instruções de “Silent Installation” também em:
+To push a silent installation of the software to several different workstations with the same hardware, review the “Silent Installation” instructions also in Chapter 2. 
 
-_Note: Para fazer a instalação, você deve estar conectado ao seu computador com privilegios de administrador._
+_NOTE: To install, you must be logged on to your computer with administrator privileges._

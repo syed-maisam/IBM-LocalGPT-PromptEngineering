@@ -1,50 +1,42 @@
-# Como solicitar acesso ao Blueworks Live
+# How to request Blueworks Live access 
 
-**Objetivo:** O propósito deste guia é orientá-lo pelas etapas necessárias para acessar o Blueworks Live através do site IBM SkillsBuils Software Downloads.
+**Objective:** 
+The purpose of this guide is to walk you through the steps to be followed when accessing Blueworks Live through the IBM SkillsBuild Technology Access website.
 
-**Tempo estimado:** 5 – 10 minutos
+**Estimated time:** 5 – 10 minutes
 
-## Passo 1: Abra o site [IBM SkillsBuild Software Downloads](https://ibm.com/academic) em seu navegador.
+## Step 1: Open the [IBM SkillsBuild Technology Access](https://ibm.com/academic) website in a web browser.
 <br />
 
-![Step 1](images/step1.png)
+![Step 1](images/step1n.png)
 
-## Passo 2: Clique em **Already registered? Log in.**
+## Step 2: Click **Access software downloads**
 <br />
 
-![Step 2](images/step2.png)
+![Step 2](images/step2n.png)
 
-## Passo 3: Entre com o e-mail ID emitido pela sua instituição de ensino, faculdade e complete o processo de login.
+## Step 3: Enter your academic institution, university, college issued email ID and complete the login process.
 <br />
 
 ![Step 3](images/step3.png)
 
-## Passo 4:  Visite em tópicos a página IBM Automation
-Topics menu > See All > IBM Automation
+## Step 4: Visit the IBM Automation topics page.
 <br />
 
-![Step 4](images/step4.png)
+![Step 4](images/step4nauto.png)
 <br />
 
-![Step 4b](images/step4b.png)
+## Step 5: Select Blueworks Live and click the Create an account button. 
+
+![Step 6](images/step6nbwl.png)
 <br />
 
-![Step 4c](images/step4c.png)
+![Step 6b](images/step6bnbwl.png)
 
-## Passo 5: Role para baixo e clique na aba Software.
-![Step 5](images/step5.png)
-
-## Passo 6: Selecione Blueworks Live e clique no link Create a Blueworks Live Account
-
-![Step 6](images/step6.png)
-<br />
-
-![Step 6b](images/step6b.png)
-
-Use o mesmo IBMid que foi usado pela primeira vez para se registrar no site IBM SkillsBuild Software Downloads.
+Please use the same IBMid that was first used to register in the IBM SkillsBuild Technology Access website.
 <br />
 
 ![Step 6c](images/step6c.png)
 
-## Passo 7: Agora, retorne na aba IBM SkillsBuild Software Downloads. Então clique no link Request Academic Access para solicitar que sua conta teste deve ser convertida para um conta acadêmica.
-![Step 7](images/step7.png)
+## Step 7: Now, return to the IBM SkillsBuild Technology Access tab. Then click the Request Access link to request that your trial account must be converted to an academic account.
+![Step 7](images/step7nbwl.png)
