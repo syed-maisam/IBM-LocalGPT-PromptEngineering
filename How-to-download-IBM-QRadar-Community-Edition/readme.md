@@ -1,68 +1,58 @@
-# Como fazer o download do Qradar Community Edition
+# How to download Qradar Community Edition
 
-**Objetivo:** O propósito deste guia é orientá-lo pelas etapas necessárias para fazer o download do Qradar Community Edition através do site IBM SkillsBuild Software Downloads 
+**Objective** The purpose of this guide is to walk you through the steps to be followed when downloading Qradar 
+Community Edition from the IBM SkillsBuild Technology Access website.
 
-**Tempo estimado:** 5-10 minutos
+**Estimated time:** 5-10 minutes
 
-## Passo 1: Abra o site [IBM SkillsBuild Software Downloads](http://ibm.com/academic) em seu navegador.
+## Step 1: Open [IBM SkillsBuild Technology Access](http://ibm.com/academic) in a web browser.
 <br />
 
-![Step 1](images/step1.png)
+![Step 1](images/step1n.png)
 
-## Passo 2: Clique em **Already registered? Log in.**
+## Step 2: Click **Access software downloads**
 <br />
 
-![Step 2](images/step2.png)
+![Step 2](images/step2n.png)
 
-## Passo 3: Entre com o seu e-mail ID emitido pela sua instituição de ensino, faculdade e complete o processo de login.
+## Step 3: Enter your academic institution, university, college issued email ID and complete the login process.
 <br />
 
 ![Step 3](images/step3.png)
 
-## Passo 4: Visite em tópicos a página IBM Security
-Topics menu > See All > IBM Security
+## Step 4: Visit the IBM Security topics page.
 <br />
 
-![Step 4](images/step4.png)
+![Step 4](images/step4ns.png)
 <br />
 
-![Step 4b](images/step4b.png)
+## Step 5: Click Download under the QRadar Community Edition tab.
 <br />
 
-![Step 4c](images/step4c.png)
-
-## Passo 5: Role para baixo e clique na guia de Software.
+![Step 6](images/step6ns.png)
 <br />
 
-![Step 5](images/step5.png)
+![Step 6b](images/step6bns.png)
 
-## Step 6: Click Download under the QRadar Community Edition tab.
-<br />
+**Note:** When you click Download, a new tab will open. Some browsers may require the user to give permission for this tab to be operable.
 
-![Step 6](images/step6.png)
-<br />
-
-![Step 6b](images/step6b.png)
-
-**Note:** Quando você clicar em Download, uma nova guia será aberta. Alguns navegadores podem solicitar que o usuário permita que essa guia seja operada.
-
-## Passo 7: Quando a nova guia abrir, complete as informações e verifique seu e-mail.
+## Step 6: Once the screen opens, fill in the information and verify your email.
 <br />
 
 ![Step 7](images/step7.png)
 
-**Note:** Faça login com seu e-mail insitucional, pois está associado a um IBMid e você não precisará criar uma conta adicional.
+**Note:** Login with your academic institution email as it is associated with an IBMid and you will not need to create any additional accounts.
 
-## Passo 8: Complete as informações necessárias para acessar a versão acadêmica do QRadar Community Edition.
+## Step 7: Complete the required information to get access to the academic version of QRadar Community Edition.
 <br />
 
 ![Step 8](images/step8.png)
 
-## Passo 9: Quando o envio das informações for concluída, a página IBM MRS Toll será exibida. Clique em Download para obter o arquivo QRadar.
+## Step 8: Once the information submission is completed, the IBM MRS Tool page will be displayed. Click Download to get the QRadar file.
 <br />
 
 ![Step 9](images/step9.png)
 
 **Note:** 
-* Para mais documentações sobre QRadar, visite: https://www.ibm.com/community/qradar
-* Para mais informações sobre produtos, visite: https://www.ibm.com/community/qradar/ce/
+* For more documentation on QRadar, visit: https://www.ibm.com/community/qradar
+* For more product information, visit: https://www.ibm.com/community/qradar/ce/

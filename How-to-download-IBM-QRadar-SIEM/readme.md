@@ -1,73 +1,61 @@
-# Como fazer o download do QRadar SIEM
+# How to download QRadar SIEM
 
-**Objetivo:** O propósito deste guia é orientá-lo pelas etapas necessárias para fazer o download do QRadar SIEM através do site IBM SkillsBuild Software Downloads.
+**Objective** The purpose of this guide is to walk you through the steps to be followed when downloading QRadar SIEM from the IBM SkillsBuild Technology Access website.
 
-**Tempo estimado:** 5-10 minutos
+**Estimated time:** 5-10 minutes
 
-## Passo 1: Abra o site [IBM SkillsBuild Software Downloads](http://ibm.com/academic) em seu navegador.
+## Step 1: Open [IBM SkillsBuild Technology Access](http://ibm.com/academic) in a web browser.
 <br />
 
-![Step 1](images/step1.png)
+![Step 1](images/step1n.png)
 
-## Passo 2: Clique em **Already registered? Log in.**
+## Step 2: Click **Access software downloads**
 <br />
 
-![Step 2](images/step2.png)
+![Step 2](images/step2n.png)
 
-## Passo 3: Entre com o seu e-mail ID emitido pela sua instituição de ensino, faculdade e complete o processo de login.
+## Step 3: Enter your academic institution, university, college issued email ID and complete the login process.
 <br />
 
 ![Step 3](images/step3.png)
 
-## Passo 4: Visite em tópicos a página IBM Security.
-Topics menu > See All > IBM Security
+## Step 4: Visit the IBM Security topics page.
 <br />
 
-![Step 4](images/step4.png)
+![Step 4](images/step4ns.png)
 <br />
 
-![Step 4b](images/step4b.png)
+## Step 5: Click Download under the QRadar SIEM.
 <br />
 
-![Step 4c](images/step4c.png)
-
-## Passo 5: Role a página para baixo e clique na aba Software
+![Step 6](images/step6nsq.png)
 <br />
 
-![Step 5](images/step5.png)
+![Step 6b](images/step6bnsq.png)
 
-## Passo 6: Clique em Donwload abaixo de QRadar SIEM.
-<br />
+**Note:** When you click Download, a new tab will open. Some browsers may require the user to give permission for this tab to be operable.
 
-![Step 6](images/step6a.png)
-<br />
-
-![Step 6b](images/step6b.png)
-
-**Note:** Quando você clicar em Download, uma nova guia será aberta. Alguns navegadores podem solicitar que o usuário permita que essa guia seja operada.
-
-## Passo 7: Depois de abrir o link IBM Software Download, desça a página até resultados de Find by part number e clique na guia HTTP.
+## Step 6: Once you open the IBM Software Download link, scroll down to Find by part number results and click the HTTP tab.
 <br />
 
 ![Step 7](images/step7.png)
 
-## Passo 8: Selecione a imagem para download e após ler e entender o contrato de licença, clique em "I agree".
-
+## Step 7: Select the image to download and after you read and understand the license agreement, click “I agree”.
 <br />
 
 ![Step 8](images/step8.png)
 
-**Note:** Os termos do programa IBM SkillsBuild Software Downloads program podem ser encontrados em: 
+**Note:** The terms for the IBM SkillsBuild Technology Access program can be found at: 
 https://www.ibm.com/academic/faqs/agreement.
 
-## Passo 9: Clique em Donwload e salve os arquivos em seu disco rígido.
+## Step 8: Click Download now and save the file(s) to your local hard drive.
 <br />
 
 ![Step 9](images/step9.png)
 
-## Passo 10: Retorne para página IBM SkillsBuild Software Downloads, na página de Security e solicite uma licença do QRadar SIEM no card QRadar SIEM.
+## Step 9: Return to the IBM SkillsBuild Technology Access Security topic page and request a QRadar SIEM License in the QRadar SIEM card.
 <br />
 
-![Step 10](images/step10.png)
+![Step 10](images/step10nsq.png)
 
-**Note:**  A licença vai ser enviada por e-mail em alguns dias.
+**Note:**  The license will be delivered via email in a few days.
