@@ -1,90 +1,95 @@
-# How to download SPSS Modeler Premium
-
-**Objective:** The purpose of this guide is to walk you through the steps required to login to the IBM SkillsBuild Technology Access and download the SPSS Modeler Premium.
-
-**Estimated time:** 5-10 minutes
-
-## Step 1: Open the [IBM SkillsBuild Technology Access](https://ibm.com/academic) website in a web browser.
+# Descargar SPSS Modeler Premium con IBM Academic Initiative
+​
+**Objetivo:** El propósito de esta guía es llevarlo por los pasos necesarios para ingresar al IBM Academic Initiative y descargar SPSS Modeler Premium
+​
+**Tiempo estimado:** 5-10 minutos
+​
+## Paso 1: Abrir el website de IBM Academic Initiative ibm.com/academic en su navegador
 <br />
 
-![Step 1](images/step1n.png)
-
-## Step 2: Click **Access software downloads**
+![Step 1](images/step1.png)
+​
+## Paso 2: Seleccione Already registered? Log in
 <br />
 
-![Step 2](images/step2n.png)
-
-## Step 3: Enter your academic institution, college, university issued email ID and complete the login process.
+![Step 2](images/step2.png)
+​
+## Paso 3: Introduzca el correo electrónico de su institución educativa y complete el proceso de inicio de sesión
 <br />
 
 ![Step 3](images/step3.png)
-
-## Step 4: Visit the Data Science topic page.
+​
+## Paso 4: Visite la página Data Science
 <br />
 
-![Step 4](images/step4n.png)
-
-## Step 6: Click the SPSS Modeler Premium tile.
+Menú Topics > See All > Data Science
+![Step 4](images/step4.png)
+![Step 4b](images/step4b.png)
+![Step 4c](images/step4c.png)
+​​
+## Paso 5: Deslice hasta abajo y seleccione la pestaña de Software 
 <br />
 
-![Step 5b](images/step5nspss.png)
-
-## Step 6a: Click the Download macOS link to download SPSS for macOS operating system.
+![Step 5](images/step5.png)
+​
+![Step 5b](images/step5b.png)
+​
+## Paso 6a: Seleccione Download macOS para descargar SPSS para sistema operativo macOS
 <br />
 
-![Step 6a](images/step6anspss.png)
-
-## Step 6b: Click the Download Window link to download SPSS for Windows operating system.
+![Step 6a](images/step6a.png)
+​
+## Paso 6b: Seleccione Download Windows para descargar SPSS para Sistema operativo Windows 
 <br />
 
-![Step 6b](images/step6bnspss.png)
-
-**Note:** When you click Download, a new tab will open. Some browsers may require the user to give permission for this tab to be operable.
-
-## Step 7: Once you open the IBM Software Download link, scroll down to Find by part number results and click the HTTP tab.
+![Step 6b](images/step6b.png)
+​
+**Nota:** Al seleccionar el enlace Download se abrirá una nueva pestaña. Algunos 
+navegadores pueden requerir que el usuario lo permita.
+​
+## Paso 7: Una vez abierta la pantalla IBM Software Download, deslice hasta abajo hasta Find by part number results y seleccione la opción HTTP 
 <br />
 
-Option: macOS download
-![Step 7a](images/spss-mac-partnumber.png)
-
-Option: Windows download
-![Step 7b](images/spss-windows-partnumber.png)
-
-## Step 8: Select the image to download and after you read and understand the license agreement, click “I agree”.
+Opción: macOS Download
+![Step 7a](images/step7a.png)
+​
+Opción: Windows Download
+![Step 7b](images/step7b.png)
+​​
+## Paso 8: Seleccione la imagen a descargar y marque la opción “I agree” una vez que haya leído y entendido los términos de licenciamiento.
 <br />
 
-Option: macOS download
-![Step 8a](images/spss-mac-options.png)
-
-Option: Windows download
-![Step 8b](images/spss-windows-options.png)
-
-**Note:** The terms for the IBM SkillsBuild Technology Access program can be found at: 
-https://www.ibm.com/academic/faqs/agreement.
-
-
-## Step 9: Click Download now and save the file(s) to your local hard drive.
+Opción: macOS Download
+![Step 8a](images/step8a.png)
+​
+Opción: Windows Download
+![Step 8b](images/step8b.png)
+​
+**Nota:** Puede encontrar los términos de uso de software para el programa IBM Academic Initiative en: 
+https://www.ibm.com/academic/faqs/agreement
+​
+​
+## Paso 9: Seleccione el botón Download now y descargue el archivo en su disco local 
 <br />
+​
+Opción: macOS Download
 
-Option: macOS download
 ![Step 9a](images/step9a.png)
-
-Option: Windows download
+​
+Opción: Windows Download
 ![Step 9b](images/step9b.png)
-
-
-## Step 10: Return to the IBM SkillsBuild Technology Access Data Science topic page and request an SPSS Authorization Code in the SPSS Modeler Premium card.
+​
+## Paso 10: Regrese al website IBM Academic Initiative y solicite el código de autorización SPSS (SPSS Authorization Code) en la tarjeta SPSS Modeler Premium.
 <br />
 
-![Step 10](images/step10nspss.png)
-
-**Note:**  The authorization code is necessary to activate the SPSS Modeler Premium.
-
-## Step 11: Enter the Authorization Code in the SPSS Modeler Premium.
+![Step 10](images/step10.png)
+​
+**Nota:** El Código de autorización es necesario para activar el SPSS Modeler Premium.
+​
+## Paso 11: Coloque el Código de autorización (Authorization Code) en el SPSS Modeler Premium.
 <br />
 
-![Step 11](images/step11nspss.png)
-
-**Note:** For SPSS support, please reach out to our SPSS Community at:
+![Step 11](images/step11.png)
+​
+**Nota:** Para soporte de SPSS contacte a nuestro SPSS Community
 https://developer.ibm.com/predictiveanalytics
-
