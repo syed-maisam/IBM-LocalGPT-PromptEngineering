@@ -1,83 +1,86 @@
-# Como criar uma conta IBM Cloud
+# IBM Cloud アカウントの登録方法
 
-O seguinte guia o guiará através dos passos necessários para criar uma **nova** conta IBM Cloud.
+[English](/academic-initiative/how-to/How-to-create-an-IBM-Cloud-account/readme.md);
+[Português](/academic-initiative/pt-br/how-to/How-to-create-an-IBM-Cloud-account/readme.md);
+
+以下のガイドはIBM Cloudのアカウントを**新規に**作成するための手順を説明します。
 <br />
 
-## Pré-requisitos
+## 前提条件
 
-- **IBM Cloud Feature Code** - É necessário um código alfanumérico de 32 caracteres IBM Cloud Feature Code para abrir uma nova conta de teste IBM Cloud.  Participantes de [IBM SkillsBuild Software Downloads](https://www.ibm.com/academic) podem [request a code using these instructions](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md). Todos os outros devem obter seu código do organizador da classe ou do evento.
+- **IBM Cloud フィーチャー・コード** -IBM Cloudのトライアルアカウントを新規に開設するためには、32文字の英数字からなるIBM Cloudフィーチャーコードが必要です。  [IBM SkillsBuild Software Downloads](https://www.ibm.com/academic) の参加者は [このガイドを使ってコードをリクエストすることができます。](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/jp/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md).  それ以外の方は、クラスまたはイベント主催者からコードを入手してください。
 <br />
 
-## Aviso
-Favor não fornecer informações de cartão de crédito no IBM Cloud a menos que você esteja atualizando ativamente para uma conta paga e esteja disposto a aceitar ser cobrado por serviços consumidos.
+## 注意
+有料アカウントに積極的にアップグレードし、使用したサービスの請求に同意する場合を除き、IBM Cloud にクレジットカード情報を提供しないでください。
 <br />
 
-## Passo 1 - Visite [cloud.ibm.com](https://cloud.ibm.com) no seu navegador web
+## Step 1 - Webブラウザで[cloud.ibm.com](https://cloud.ibm.com)にアクセスします。
 
-![Step 1](images/step-n1.png) 
+![Step 1](images/step-n1-ja.png) 
 
-## Passo 2 - Clique em <span style="color:blue">**Create an account**</span>
+## Step 2 - <span style="color:blue">**アカウントの作成**</span>をクリックします
 
-![Step 2](images/step-n2.png) 
+![Step 2](images/step-n2-ja.png) 
 
-## Passo 3 - coloque um <span style="color:blue">**email address**</span> e <span style="color:blue">**password**</span>.  Clique <span style="color:blue">**Next**</span> para prosseguir.
+## Step 3 - 有効な<span style="color:blue">**Eメールアドレス**</span> と <span style="color:blue">**パスワード**</span>を入力し、 <span style="color:blue">**次のステップ**</span> をクリックして先に進みます。
 
-![Step 3](images/step-n3.png) 
+![Step 3](images/step-n3-ja.png) 
 
-## Passo 4 - Você receberá um código de verificação por e-mail.  Por favor, verifique sua caixa de entrada de e-mail e digite o código de verificação de 7 dígitos que você recebeu (exemplo abaixo).  Clique em . <span style="color:blue">**Next**</span> para prosseguir.
+## Step 4 - 認証コードがメールで送信されます。メールの受信箱を確認し、受け取った7桁の認証コードを入力してください（下の例を参照）。   <span style="color:blue">**次のステップ**</span> をクリックして先に進みます。
 
-![Step 4a](images/step-n4a.png)
+![Step 4a](images/step-n4a-ja.png)
 
-![Step 4b](images/step-n4b.png)
+![Step 4b](images/step-n4b-ja.png)
 
-![Step 4c](images/step-n4c.png)
+![Step 4c](images/step-n4c-ja.png)
 
-## Passo 5 - Preencha com seu <span style="color:blue">**First name**</span>, <span style="color:blue">**Last name**</span> e <span style="color:blue">**Country or region**</span>. Clique <span style="color:blue">**Next**</span> para prosseguir.
+## Step 5 - <span style="color:blue">**名前**</span>、 <span style="color:blue">**姓**</span>、 <span style="color:blue">**国またはリージョン**</span>を入力してください。 <span style="color:blue">**次のステップ**</span>をクリックして先に進みます。
 
-![Step 5](images/step-n5.png)
+![Step 5](images/step-n5-ja.png)
 
-## Passo 6 - Complete o <span style="color:blue">**Account notice**</span> e clique em <span style="color:blue">**Continue**</span> para prosseguir.
+## Step 6 - Complete the <span style="color:blue">**アカウントに関する注意事項**</span> を確認し、問題なければチェックを入ます。<span style="color:blue">**続行**</span>をクリックして先に進みます。
 
-![Step 6](images/step-n6.png)
+![Step 6](images/step-n6-ja.png)
 
-## Passo 7 - Complete o <span style="color:blue">**Account privacy notice**</span> e clique em <span style="color:blue">**Continue**</span> para prosseguir.
+## Step 7 - Complete the <span style="color:blue">**アカウントのプライバシー通知**</span> を確認し、問題なければチェックを入れます。<span style="color:blue">**続行**</span>をクリックして先に進みます。
 
-![Step 7](images/step-n7.png)
+![Step 7](images/step-n7-ja.png)
 
-## Passo 8 - No  <span style="color:blue">**Verify identity**</span> clique na opção <span style="color:blue">**Register with a code**</span>.
+## Step 8 - <span style="color:blue">**本人確認**</span> の画面が表示されるので,  <span style="color:blue">**コードを使用して登録する**</span> をクリックします。
 
-![Step 8](images/step-n8.png)
+![Step 8](images/step-n8-ja.png)
 
-### Aviso
-Favor não fornecer informações de cartão de crédito no IBM Cloud a menos que você esteja atualizando ativamente para uma conta paga e esteja disposto a aceitar ser cobrado por serviços consumidos.
+### 注意
+有料アカウントに積極的にアップグレードし、使用したサービスの請求に同意する場合を除き、IBM Cloud にクレジットカード情報を提供しないでください。
 <br />
 <br />
 
-## Passo 9 - Digite seu código de 32 caracteres IBM Cloud Feature Code no <span style="color:blue">**Enter code**</span> Clique <span style="color:blue">**Create account**</span> para prosseguir.
+## Step 9 -  <span style="color:blue">**コードの入力**</span> のテキストボックスに32文字の英数字からなるIBM Cloudフィーチャーコードを入力します。   <span style="color:blue">**アカウントの作成**</span> をクリックして先に進みます。
 
-_Note: Estudantes e educadores de instituições acadêmicas credenciadas para a graduação podem [obtain an IBM Cloud Feature Code](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md) através de [IBM SkillsBuild Software Downloads](https://www.ibm.com/academic).  Todos os outros devem receber um IBM Cloud Feature Code do seu coordenador de eventos._
+_Note: 学位を授与する認定学術機関の学生および教育関係者は、 [IBM SkillsBuild Software Downloads](https://www.ibm.com/academic)から [IBM Cloud Feature Code を入手](https://github.com/academic-initiative/documentation/blob/main/academic-initiative/jp/how-to/How-to-request-and-IBM-Cloud-Feature-Code/readme.md) することができます。  それ以外の方は、イベント・コーディネーターからIBM Cloudフィーチャーコードを受け取ってください。_
 
-![Step 9a](images/step-n9a.png)
+![Step 9a](images/step-n9a-ja.png)
 
-![Step 9b](images/step-n9b.png)
+![Step 9b](images/step-n9b-ja.png)
 
-## Passo 10 - Successo!
+## Step 10 - 成功しました!
 
-![Step 10](images/step-n10.png)
+![Step 10](images/step-n10-ja.png)
 
-## Solução de problemas
+## トラブルシューティング
 
-P: Eu recebi uma mensagem de erro com código ao aplicar o IBM Cloud Feature Code.  O que eu devo fazer?
+Q: IBM Cloud Feature Codeを適用する際に、コード付きのエラーメッセージが表示されました。 どうすればよいですか？
 <br />
-R: Favor entrar em contato com o fornecedor do código para assistência.  O mais provável é que você precise de um código de substituição.
-<br />
-<br />
-P: Durante o registro de uma conta IBM Cloud eu forneci um cartão de crédito.  Posso desfazer isto?
-<br />
-R: Não, entrar com um cartão de crédito cria uma conta Pay-As-You-Go e permite utilizar tanto serviços gratuitos como pagos. Isto não pode ser desfeito.  Quaisquer encargos dos serviços pagos serão faturados no cartão de crédito em arquivo. Recomendamos a criação de uma conta de [spending notifications](https://cloud.ibm.com/docs/billing-usage?topic=billing-usage-spending) para ajudar a evitar cobranças indesejadas.
+A: コード提供担当者にお問い合わせください。 ほとんどの場合、コードの交換が必要になります。
 <br />
 <br />
-P: Minha conta de teste IBM Cloud expirou e agora está me pedindo para atualizar e fornecer um cartão de crédito.  Quais são as minhas opções?
+Q:IBM Cloud アカウントの登録時に、クレジット カード情報を登録しました。これを取り消すことはできますか?
 <br />
-R: Você pode [upgrade your account](https://cloud.ibm.com/docs/account?topic=account-upgrading-account) para reativar e continuar usando sua conta existente ou criar uma nova conta usando um novo endereço de e-mail.
+A: いいえ、クレジットカードを入力すると、従量課金制のアカウントが作成され、無料と有料の両方のサービスを利用できるようになります。これは元に戻すことができません。 有料サービスからの請求は、ご登録のクレジットカードに請求されます。ご利用の際は、[使用料通知](https://cloud.ibm.com/docs/billing-usage?topic=billing-usage-spending)を設定されることをお勧めします。
+<br />
+<br />
+Q: IBM Cloud のトライアル アカウントの有効期限が切れたので、アップグレードしてクレジットカード情報を登録するように要求されています。 どのような選択肢がありますか？
+<br />
+A: [アカウントのアップグレード](https://cloud.ibm.com/docs/account?topic=account-upgrading-account)により、既存のアカウントを再アクティベートして引き続き使用するか、新しい電子メールアドレスを使用して全く新しいアカウントを作成することができます。
 <br />
