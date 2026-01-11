@@ -1,56 +1,39 @@
-# Explore o IBM Software Catalog 
+# Explore the IBM Software Catalog 
 
-**Objetivo:**
-O propósito deste guia é orientá-lo pelas etapas necessárias para explorar o IBM Software Catalog disponível para os usuários do IBM SkillsBuild Software Downloads e como você pode fazer o download dos artefatos.
+**Objective:**
+The purpose of this guide is to walk you through the necessary steps required to explore the IBM Software Catalog made available to IBM SkillsBuild Technology Access users and how you can download the artifacts.
 
-**Tempo Estimado:** 5-10 minutos
+**Estimated time:** 5-10 minutes
 
-## Passo 1: Abra o site [IBM SkillsBuild Software Downloads](http://ibm.com/academic) em seu navegador.
+## Step 1: Open the [IBM SkillsBuild Technology Access](http://ibm.com/academic) in a web browser.
 <br />
 
-![Step 1](images/step1.png)
+![Step 1](images/step1n.png)
 
-## Passo 2: Cloque **Already registered? Log in.**
+## Step 2: Click **Access software downloads**
 <br />
 
-![Step 2](images/step2.png)
+![Step 2](images/step2n.png)
 
-## Passo 3: Entre com o seu e-mail ID emitido pela sua instituição de ensino, faculdade e complete o processo de login.
+## Step 3: Enter your academic institution, college, university issued email ID and complete the login process.
 <br />
 
 ![Step 3](images/step3.png)
 
-## Passo 4: Visite qualquer uma das páginas de tópicos
-Example - Topics menu > See All > IBM Engineering
+## Step 4: Visit any of the topic pages.
+
+![Step 4](images/step4n.png)
 <br />
 
-![Step 4](images/step4.png)
+## Step 5: Click the Explore Catalog link under Explore the IBM Software Catalog tile.
 <br />
 
-![Step 4b](images/step4b.png)
+![Step 6](images/step6nexp.png)
+<br />
+![Step 6](images/step6bnexp.png) 
 <br />
 
-![Step 4c](images/step4c.png)
-
-## Passo 5: Role a página e clique em Software
-<br />
-
-![Step 5](images/step5.png)
-
-## Passo 6a: Clique no link que está abaixo da guia Explore the IBM Software Catalog.
-<br />
-
-![Step 6](images/step6.png)
-<br />
-
-![Step 6a](images/step6a.png)
-
-## Passo 6b: Clique no link List of Available Software abaixo da guia Explore the IBM Software Catalog para ver a lista de software disponivel.
-<br />
-
-![Step 6b](images/step6b.png)
-
-## Passo 7: Pesquise pelo artefato desejado, digitando o nome ou número. Os resultados incluirão todos os produtos elegíveis ou relevantes.
+## Step 6: Search for the desired artifact by entering the relevant name or number. The results will include all eligible/relevant products.
 <br />
 
 ![Step 7a](images/step7a.png)
@@ -58,12 +41,12 @@ Example - Topics menu > See All > IBM Engineering
 
 ![Step 7b](images/step7b.png)
 
-## Passo 8: Assim que achar o artefato, clique na guia HTTP e escolha o artefato que você deseja fazer o download. Aceite os termos e condições, clicando em "I agree" para continuar o processo de download.
+## Step 7: Once you find the artifact, click the HTTP tab and choose the artifact you want to download. Accept the terms and conditions, by clicking “I agree” to continue with the downloading process.
 <br />
 
 ![Step 8](images/step8.png)
 
-## Passo 9: Clique em Download para iniciar o donwload do artefato escolhido.
+## Step 8: Click Download now to start downloading your chosen artifact.
 <br />
 
 ![Step 9](images/step9.png)
