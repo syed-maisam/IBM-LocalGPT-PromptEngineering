@@ -1,52 +1,53 @@
-# Como indicar sua instituição para acesso ao IBM SkillsBuild Software Downloads 
+# How to nominate your institution for access to IBM SkillsBuild Technology Access 
 
-**Objetivo:** O objetivo deste guia é guiá-lo através dos passos a serem seguidos ao nomear uma instituição acadêmica para a IBM SkillsBuild Software Downloads.
+**Objective:** The purpose of this guide is to walk you through the steps to be followed 
+when nominating an academic institution to IBM SkillsBuild Technology Access.
 
-**Tempo estimado:**  
-5 – 10 minutos (registrar)  
-7 – 10 dias úteis (tempo estimado para revisão)
+**Estimated time:**  
+5 – 10 minutes (registration)  
+7 – 10 business days (estimated time for review)
 
-## Passo 1: Abra os [downloads do software IBM SkillsBuild](https://ibm.com/academic) em um navegador web.
+## Step 1: Open the [IBM SkillsBuild Technology Access](https://ibm.com/academic) website in a web browser.
 <br />
 
-![Step 1](images/step1.png)
+![Step 1](images/step1n.png)
 
-## Passo 2: Clique em **Registre-se agora**.
+## Step 2: Click **Access software downloads**.
 <br />
 
-![Step 2](images/step2.png)
+![Step 2](images/step2n.png)
 
-## Passo 3: Digite sua instituição acadêmica, universidade, e-mail de identificação emitido pela faculdade.  Se sua instituição não faz parte do IBM SkillsBuild Software Downloads, você receberá um formulário a ser preenchido.
+## Step 3: Enter your academic institution, university, college issued email ID.  If your institution is not a part of IBM SkillsBuild Technology Access you will be presented with a form to complete.
 <br />
 
 ![Step 3](images/step3.png)
 
-## Passo 4: No menu suspenso, escolha o "Tipo de usuário" que melhor descreve seu perfil.
-**Nota:** Somente um membro do corpo docente ou da equipe pode indicar suas instituições acadêmicas.
+## Step 4: From the dropdown menu, choose the “Type of user” that best describes your profile.
+**Note:** Only a faculty or staff member can nominate their academic institutions.
 <br />
 
 ![Step 4](images/step4.png)
 
-## Passo 5: Digite as informações necessárias.
+## Step 5: Enter the required information.
 <br />
 
 ![Step 5](images/step5.png)
 
-## Passo 6: Clique e revise o Acordo de Download de Software SkillsBuild da IBM e a Declaração de Privacidade.
+## Step 6: Click and review the IBM SkillsBuild Technology Access Agreement and Privacy Statement.
 <br />
 
 ![Step 6](images/step6.png)
 
-## Passo 7: Após ler o Acordo de Downloads do Software SkillsBuild da IBM e a Declaração de Privacidade, clique em **aceitar**.
+## Step 7: After reading the IBM SkillsBuild Technology Access Agreement and Privacy Statement, click **Agree**.
 <br />
 
 ![Step 7a](images/step7a.png)
 ![Step 7b](images/step7b.png)
 
-# Step 8: Clique **Submit**.
+# Step 8: Click **Submit**.
 ![Step 8](images/step8.png)
 
-# Passo 9: Uma vez que seu registro tenha sido processado, você receberá uma notificação por e-mail.
+# Step 9: Once your registration has been processed, you will receive an email notification.
 <br />
 
-# Passo 10 : Se aprovado, retorne ao site da IBM SkillsBuild Software Downloads e complete seu processo de registro.
+# Step 10 : If approved, return to the IBM SkillsBuild Technology Access website and complete your registration process.

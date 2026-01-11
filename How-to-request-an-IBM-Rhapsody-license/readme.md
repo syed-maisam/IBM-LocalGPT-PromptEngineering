@@ -1,55 +1,46 @@
-# Como solicitar uma licença IBM Rhapsody.
+# Hot to request an IBM Rhapsody license
 
-**Objetivo:** O propósito deste guia é orientá-lo pelas etapas necessárias ao solicitar Rhapsody v9.0 através do site IBM SkillsBuild Software Downloads.
+**Objective:**
+The purpose of this guide is to walk you through the steps to be followed when requesting Rhapsody v9.0 from the IBM SkillsBuild Technology Access website.
 
-**Tempo estimado:** 5-10 minutos
+**Estimated time:** 5-10 minutes
 
-## Passo 1: Abra o site [IBM SkillsBuild Software Downloads](https://ibm.com/academic) em seu navegador.
+
+## Step 1: Open the [IBM SkillsBuild Technology Access](https://ibm.com/academic) website in a web browser.
 <br />
 
-![Step 1](images/step1.png)
+![Step 1](images/step1n.png)
 
-## Passo 2: Clique em **Already registered? Log in.**
+## Step 2: Click **Access software downloads**
 <br />
 
-![Step 2](images/step2.png)
+![Step 2](images/step2n.png)
 
-## Passo 3: Entre com o e-mail ID emitido pela sua instituição de ensino, faculdade e complete o processo de login.
+## Step 3: Enter your academic institution, university, college issued email ID and complete the login process.
 <br />
 
 ![Step 3](images/step3.png)
 
-## Passo 4: Visite em tópicos a página IBM Engineering
-Topics menu > See All > IBM Engineering
+## Step 4: Visit the IBM Engineering topic page
 <br />
 
-![Step 4](images/step4.png)
-![Step 4b](images/step4b.png)
-![Step 4c](images/step4c.png)
+![Step 4](images/step4nrap.png)
 
-
-## Passo 5: Role a página e clique na aba de Software.
+## Step 5: Click Request License under the  IBM Engineering System Design Rhapsody tab. 
 <br />
 
-![Step 5](images/step5.png)
+![Step 6](images/step5nrap.png)
+![Step 6b](images/step5bnrap.png)
 
-## Passo 6: Clique em Request License abaixo da aba IBM Engineering System Design Rhapsody.
+**Note:** When you click Request License, the request is sent to the IBM Engineering team, once your request is approved you will receive an email with the instructions to get the license.
 <br />
 
-![Step 6](images/step6.png)
-![Step 6b](images/step6b.png)
-
-**Note:** Quando você clicar em Request License, a requisição é enviada pelo time IBM Engineering, uma vez que sua requisição é aprovada você receberá um e-mail com as instruções para obter a licença.
-<br />
-
-![Step 6c](images/step6c.png)
-
-## Passo 7: Depois de receber o e-mail de confirmação, clique no link para IBM Rational License Key Center.
+## Step 6: Once you receive the confirmation email, click the link to the IBM Rational License Key Center.
 <br />
 
 ![Step 7](images/step7.png)
 
-## Passo 8: Desça a página e clique no link (destacado abaixo) para obter a License Key necessária para o Rhapsody v9.0.
+## Step 8: Scroll down and click the link (highlighted below) to get the License Key needed for Rhapsody v9.0.
 <br />
 
 ![Step 8](images/step8.png)
