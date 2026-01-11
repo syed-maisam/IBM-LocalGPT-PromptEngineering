@@ -1,30 +1,29 @@
-# IBM Cloud フィーチャー・コードの適用方法
+# How to Apply an IBM Cloud Feature Code
 
-[English](/academic-initiative/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md);
+[日本語](/academic-initiative/jp/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md);
 [Português](/academic-initiative/pt-br/how-to/How-to-apply-an-IBM-Cloud-Feature-Code/readme.md);
 
+**Objective:** The purpose of this guide is to take you through the steps required to apply an IBM Cloud Feature Code.
 
-**目的：** このガイドの目的は、IBM Cloud フィーチャー・コードを適用するために必要な手順を説明することです。
+**Estimated time:** 5 – 10 minutes 
 
-**推定所要時間：** 5-10分 
+## Step 1: Open the [IBM Cloud website](https://cloud.ibm.com/) in a web browser.
+![Step 1](images/step1.png)
 
-## Step 1: [IBM Cloud ウェブサイト](https://cloud.ibm.com/) をWebブラウザで開きます。
-![Step 1](images/step1-ja.png)
+## Step 2: Login using your IBMid and click Continue.
+![Step 2](images/step2.png)
 
-## Step 2: IBMidを入力し、「続行」をクリックし、次にパスワードを入力し、ログインします。
-![Step 2](images/step2-ja.png)
+## Step 3: From the main Dashboard, click on Manage in the upper-right menu.
+![Step 3](images/step3.png)
 
-## Step 3: ダッシュボードから、右上のメニューにある「管理」をクリックします。
-![Step 3](images/step3-ja.png)
+## Step 4: Click on Account from the drop-down menu.
+![Step 4](images/step4.png)
 
-## Step 4: ドロップダウンメニューから「アカウント」をクリックします。
-![Step 4](images/step4-ja.png)
+## Step 5: Click on Account Settings from the left-hand menu.
+![Step 5](images/step5.png)
 
-## Step 5: 左側のメニューから「アカウント設定」をクリックします。
-![Step 5](images/step5-ja.png)
+## Step 6: Scroll down until you see the 'Subscription and Feature Code' section and click on Apply Code button.
+![Step 6](images/step6.png)
 
-## Step 6: 「サブスクリプション・コードおよびフィーチャー・コード」セクションが表示されるまで下にスクロールし、「コードの適用」ボタンをクリックします。
-![Step 6](images/step6-ja.png)
-
-## Step 7: 32文字のフィーチャー・コードを入力（またはコピー／ペースト）し、「適用」をクリックします。
-![Step 7](images/step7-ja.png)
+## Step 7: Enter (or copy/paste) your 32-character feature code and click Apply.
+![Step 7](images/step7.png)
